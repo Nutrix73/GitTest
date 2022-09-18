@@ -1,5 +1,9 @@
 from tkinter import *
 
+'''
+Added Docstring
+'''
+
 
 def place_img(canvas):
 
