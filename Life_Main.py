@@ -23,6 +23,7 @@ Life_paras = {"ini_indivi": 100, "max_indivi": 200, "max_age": 10000,
               "xlength": 1400, "ylength": 750, "indivi_size": 4}
 
 # init indivi
+# arbitrary comment
 Population = Initialize.init_indivi(Life_paras)
 
 
